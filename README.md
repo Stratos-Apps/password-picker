@@ -1,5 +1,5 @@
 # Password Picker🔑
-This is a simple application that will generate a random password for you to use. There are CLI and a GUI versions available for download.
+This is a simple application that will generate a random password for you to use. There are CLI and GUI versions available for download.
 # How to use (Instructions for Linux & Mac)🖥️
 Download the file `password_picker.py` (or `password_picker_gui.py`) into your Downloads folder from the Releases page. 
 Make sure you have Python 3 installed. 
